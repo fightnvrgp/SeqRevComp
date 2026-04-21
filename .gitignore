@@ -1,0 +1,26 @@
+# Binaries
+seqrevcomp
+seqrevcomp.exe
+*.exe
+
+# Build artifacts
+dist/
+fyne-cross/
+*.app/
+*.dmg
+*.tar.xz
+*.tar.gz
+*.zip
+
+# Go
+vendor/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Test cache
+*.test
